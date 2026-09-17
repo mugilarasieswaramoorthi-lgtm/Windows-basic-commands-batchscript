@@ -49,22 +49,26 @@ Copy the file hello.txt into the file hello1.txt
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
 <img width="442" height="82" alt="image" src="https://github.com/user-attachments/assets/124cc6d2-d339-47cb-81ce-155343f97891" />
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+
 <img width="487" height="202" alt="image" src="https://github.com/user-attachments/assets/02d3a534-9db4-4499-bef1-6fcbd2687614" />
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
 <img width="607" height="700" alt="image" src="https://github.com/user-attachments/assets/9a6158fb-0678-4d9d-aeff-5487e01653ee" />
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+
 <img width="546" height="225" alt="image" src="https://github.com/user-attachments/assets/4a7f556a-8b66-4704-a956-4b7ebf7ecc4b" />
 
 ## COMMAND AND OUTPUT
@@ -77,6 +81,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+
 <img width="463" height="182" alt="image" src="https://github.com/user-attachments/assets/dd2dd12d-7cf4-45da-8067-007c29dd3431" />
 
 
